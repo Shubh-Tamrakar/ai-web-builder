@@ -54,7 +54,9 @@ Create a chess website with an interactive chessboard, game rules, dark theme UI
 ✅ No frontend code was written manually.
 
 
-![Chess Website Preview](Screenshot 2025-12-15 094135.png)
+![Chess Website Preview](chess-game.png)
+
+![Chess Website Preview](terminal.png)
 
 ---
 
